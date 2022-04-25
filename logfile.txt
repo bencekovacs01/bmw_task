@@ -1,0 +1,8 @@
+ápr. 25, 2022 8:41:20 DU. bmw_test_task.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+ápr. 25, 2022 8:41:20 DU. bmw_test_task.Main main
+INFO: Url accessed successfully!
+ápr. 25, 2022 8:41:20 DU. bmw_test_task.Main main
+INFO: Saving the data into the database...
+ápr. 25, 2022 8:41:21 DU. bmw_test_task.Main main
+INFO: Database filled successfully!
